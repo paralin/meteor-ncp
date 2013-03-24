@@ -1,0 +1,10 @@
+{
+    "name": "ncp",
+    "description": "NodeJS's ncp packaged for meteor.",
+    "homepage": "https://github.com/possibilities/meteor-cool-pkg",
+    "author": "Christian Stewart (email: kidovate@gmail.com)",
+    "version": "0.1.0",
+    "git": "https://github.com/kidovate/meteor-ncp.git",
+    "packages": {
+    }
+}
