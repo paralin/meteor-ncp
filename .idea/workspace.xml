@@ -34,15 +34,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ncp-old.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ncp-old.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="108.26923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -270,23 +261,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ncp-old.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="20" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="33" selection-start="56" selection-end="56" vertical-scroll-proportion="0.07512521" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ncp-old.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="108.26923">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.js">
