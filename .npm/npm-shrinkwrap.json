@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ncp": {
+      "version": "0.4.2",
+      "from": "ncp@0.4.2",
+      "resolved": "https://registry.npmjs.org/ncp/-/ncp-0.4.2.tgz"
+    }
+  }
+}

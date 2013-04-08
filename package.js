@@ -8,4 +8,6 @@ Package.on_use(function (api) {
         'lib/ncp.js'
     ], 'server'
     );
+
 });
+Npm.depends({ncp:"0.4.2"});
